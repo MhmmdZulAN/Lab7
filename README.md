@@ -70,6 +70,9 @@ Diagram Class:
 +---------------------+
 
 
+![image](https://github.com/user-attachments/assets/44c17d9b-afec-4aeb-8de6-a828ca57feb8)
+
+
 Beberapa Contoh Hasil Output dari Program:
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/6ff961c2-cc20-4fe2-9aea-a55987b3964a" />
 
